@@ -28,5 +28,5 @@ An interactive, story-driven bot built with **Python** specifically for the **Ba
 ├── config.py            # API tokens and configurations
 └── requirements.txt     # Project dependencies
 
-## 🎮 How to Play
+## 🎮 How to Use
 coming soon...
